@@ -15,7 +15,7 @@ import './App.css';
 const paramsOptions = {
   particles: {
     number: {
-      value: 150,
+      value: 40,
       density: {
         enable: true,
         value_area: 200
